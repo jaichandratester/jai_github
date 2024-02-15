@@ -1,0 +1,9 @@
+public static void main (string[]args) throws Excemption  {
+             
+              WebDriver.driver=new FirefoxDriver();
+              Driver.get("https//www.facebook.com/"
+              drver.FindElement(by.id("email")).sendkeys("selenium with java");
+              driver.FindElement(by.name("password").sendkeys("1234567890");
+              driver.FindElement(by.name("login").click();
+              thread.sleep(4000);
+              driver.quit();
